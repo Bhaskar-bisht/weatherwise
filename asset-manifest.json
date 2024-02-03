@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/weatherwise/static/css/main.8ffe6473.css",
+    "main.js": "/weatherwise/static/js/main.cda334ce.js",
+    "static/js/592.f0734b60.chunk.js": "/weatherwise/static/js/592.f0734b60.chunk.js",
+    "static/media/snow.gif": "/weatherwise/static/media/snow.9c39db9f39166217f016.gif",
+    "static/media/wind.gif": "/weatherwise/static/media/wind.e35386daf6b2d0225711.gif",
+    "static/media/tanning.gif": "/weatherwise/static/media/tanning.ac3d237b3f9cd528d44e.gif",
+    "static/media/humidity.gif": "/weatherwise/static/media/humidity.89e9b5b4a00c860d4f87.gif",
+    "static/media/temperature.gif": "/weatherwise/static/media/temperature.973b1795834057a93ad6.gif",
+    "static/media/air-pollution.gif": "/weatherwise/static/media/air-pollution.fcc4a76fc408823a5ae7.gif",
+    "static/media/sunset.gif": "/weatherwise/static/media/sunset.98655f61dd51f4293da7.gif",
+    "static/media/loading.gif": "/weatherwise/static/media/loading.afe90bc13da7b40e5ad7.gif",
+    "static/media/cold.gif": "/weatherwise/static/media/cold.a08fcb4066cdba239e3e.gif",
+    "static/media/hot.gif": "/weatherwise/static/media/hot.f807929b2ccb8f148151.gif",
+    "static/media/sun.gif": "/weatherwise/static/media/sun.ab75a97f374403b2151f.gif",
+    "static/media/cloudy.gif": "/weatherwise/static/media/cloudy.2aed9615be802c2833e3.gif",
+    "static/media/rain.gif": "/weatherwise/static/media/rain.2a6398c9de75716cae26.gif",
+    "static/media/drizzle.gif": "/weatherwise/static/media/drizzle.38d72c264a966e7408b6.gif",
+    "static/media/storm.gif": "/weatherwise/static/media/storm.1331a4abcbe2de4516be.gif",
+    "static/media/mist.gif": "/weatherwise/static/media/mist.cce5b90025db5dad774c.gif",
+    "static/media/sunrise.gif": "/weatherwise/static/media/sunrise.2649f08fd61fd2209a49.gif",
+    "static/media/decision-making.gif": "/weatherwise/static/media/decision-making.66499ac81b8f41d4b3b3.gif",
+    "index.html": "/weatherwise/index.html",
+    "main.8ffe6473.css.map": "/weatherwise/static/css/main.8ffe6473.css.map",
+    "main.cda334ce.js.map": "/weatherwise/static/js/main.cda334ce.js.map",
+    "592.f0734b60.chunk.js.map": "/weatherwise/static/js/592.f0734b60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ffe6473.css",
+    "static/js/main.cda334ce.js"
+  ]
+}
